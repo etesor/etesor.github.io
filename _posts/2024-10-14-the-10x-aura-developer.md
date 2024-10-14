@@ -61,7 +61,7 @@ Existe la percepción de que programadores jóvenes tienden a evitar leer. Es un
 Me gustaría destacar algunas características del texto que lo hacen la opción que yo recomiendo en lugar de otros formatos.
 
 - El texto es buscable, `ctrl + f`
-- Puedes hacer copy-paste (copy-paste ≠ plagio)
+- Puedes hacer copy-paste (!!! no confundir con plagio, sino a la característica inherente del texto digital)
 - Cuando tengas que arreglar algo en tu código, todo lo que verás será usualmente… texto.
 
 Cuando tu aplicación se encuentra fallando en producción, tendrás la información relevante en este formato:
