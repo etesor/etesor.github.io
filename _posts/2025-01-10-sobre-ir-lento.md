@@ -25,4 +25,6 @@ Mi punto en esta reflexión es sencillamente recordarme que ir lento no está ma
 - Dedicar tiempo a aprendizaje aún en temas que consideramos de nuestro total dominio.
 - Priorizar nuestra salud física y emocional antes que otras cosas.
 
-Terminé el entrenamiento y no pude dejar de pensar en lo interesante de la situación. Contraintuitivamente, nadar despacio me hizo ir más rápido. Este es un pequeño recordatorio para mí, ir despacio no está mal. Ir despacio te prepara para correr cuando sea necesario.
+Terminé el entrenamiento y no pude dejar de pensar en lo interesante de la situación. Contraintuitivamente, nadar despacio me hizo ir más rápido.
+
+Este es un pequeño recordatorio para mí, ir despacio no está mal. Ir despacio te prepara para correr cuando sea necesario.
