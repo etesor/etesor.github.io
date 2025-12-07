@@ -16,7 +16,7 @@ Solíamos tener un horario de guardia para estudiar. Yo estudiaba desde la noche
 
 Entonces, estábamos cenando, inspirados por la charla de mi hermano, cuando Edgar dijo:
 
-*—Arturo, ¿y qué vamos a hacer nosotros?*
+**—Arturo, ¿y qué vamos a hacer nosotros?**
 
 Edgar me preguntó directamente, sin posibilidad de evadirlo. Contó que había regresado a nadar apenas unas semanas atrás y que sabía de una competencia de aguas abiertas próxima a la que podíamos inscribirnos. Si bien la natación es un deporte que hice por muchos años viviendo en Veracruz, hacía tiempo que no lo practicaba constantemente desde que me mudé a Nuevo León.
 
@@ -102,6 +102,6 @@ Esperamos el siguiente año hacer otro cruce, el entrenamiento tiene que seguir.
 
 ![]({{ site.baseurl }}/assets/cruce-grupo.jpg)
 
-*Con los amigos correctos, saltar del acantilado no es tan mala idea.*
+**Con los amigos correctos, saltar del acantilado no es tan mala idea.**
 
 _Pd: ¡Gracias a los que estuvieron presentes!_
